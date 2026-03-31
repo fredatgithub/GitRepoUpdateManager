@@ -1,1 +1,1 @@
-# GitUpdateManager
+# Git repo update Manager
